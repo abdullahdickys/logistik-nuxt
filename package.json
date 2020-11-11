@@ -1,8 +1,8 @@
 {
-  "name": "dw-logistik-nuxt",
+  "name": "logistics-nuxt",
   "version": "1.0.0",
-  "description": "Aplikasi Ekspedisi Lumen Nuxt",
-  "author": "Anugrah Sandi",
+  "description": "Aplikasi Lumen Nuxt",
+  "author": "abdullz",
   "private": true,
   "scripts": {
     "dev": "nuxt",
